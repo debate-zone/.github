@@ -12,7 +12,7 @@ We welcome contributors of all skill levels, from developers and designers to wr
 
 By following these steps, you can effectively contribute to the project while collaborating with the owners ([Grigori](https://github.com/grig-theo) and [Maxim](https://github.com/malmilo6)) and the community.
 
-1. Contact the owners ([Grigori](https://github.com/grig-theo) or [Maxim](https://github.com/malmilo6)) of the app to discuss available tasks and get their approval for your contribution.
+1. Look at [current](https://www.notion.so/90616db70a9e4fb784ed35c7594ee2c7?v=ed588a7025584bb9be3c2ab9a5a7cceb&pvs=4) tasks, select one or more and contact the owners ([Grigori](https://github.com/grig-theo) or [Maxim](https://github.com/malmilo6)) of the app to discuss about task(s).
 
 2. Fork the repository you'll be working on by clicking the "Fork" button on the top right corner of the repository's GitHub page. This creates a copy of the repository under your GitHub account.
 
