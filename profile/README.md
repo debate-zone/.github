@@ -10,9 +10,9 @@ Debate Zone is an open-source platform that empowers individuals to engage in me
 
 We welcome contributors of all skill levels, from developers and designers to writers and testers. Whether you want to help with coding, design, documentation, or just have suggestions to improve Debate Zone, your contributions are valuable to us.
 
-By following these steps, you can effectively contribute to the project while collaborating with the owners (Grigori and Maxim) and the community.
+By following these steps, you can effectively contribute to the project while collaborating with the owners ([Grigori](https://github.com/grig-theo) and [Maxim](https://github.com/malmilo6)) and the community.
 
-1. Contact the owners (Grigori or Maxim) of the app to discuss available tasks and get their approval for your contribution.
+1. Contact the owners ([Grigori](https://github.com/grig-theo) or [Maxim](https://github.com/malmilo6)) of the app to discuss available tasks and get their approval for your contribution.
 
 2. Fork the repository you'll be working on by clicking the "Fork" button on the top right corner of the repository's GitHub page. This creates a copy of the repository under your GitHub account.
 
